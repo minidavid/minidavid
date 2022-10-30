@@ -1,7 +1,7 @@
 - 👋 Salutations my good neighbor, my name is @minidavid
-- 👀 Sincerely unto you, I say I am interested in game development.
-- 🌱 I’m currently learning the craft of gamedev.
-- 💞️ I’m looking to collaborate on gamedev.
+- 👀 Sincerely unto you, I say I am interested in many things.
+- 🌱 I’m currently learning the craft of many things.
+- 💞️ I’m looking to collaborate on many things.
 - 📫 You can @ me on twitter or something.
 
 <!---
