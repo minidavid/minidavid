@@ -2,7 +2,7 @@
 <br>
 <img src="https://img.shields.io/badge/TIC-80-000000?style=for-the-badge&logo=tic80&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Love2D-000000?style=for-the-badge&logo=love2d&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/PICO-8-000000?style=for-the-badge&logo=pico8&logoColor=red"></img>
+<img src="https://img.shields.io/badge/PICO-8-FF0000?style=for-the-badge&logo=pico8&logoColor=red"></img>
 <img src="https://img.shields.io/badge/Defold-000000?style=for-the-badge&logo=defold&logoColor=white"></img>
 
 <img src ="https://img.shields.io/badge/C%23-FFFFFF?logo=c%23&logoColor=black&style=for-the-badge"></img>
