@@ -8,11 +8,11 @@
 <img src="https://img.shields.io/badge/Defold-FFFFFF?style=for-the-badge&logo=defold&logoColor=white"></img>
 
 <br>
-<img src ="https://img.shields.io/badge/C%23-Programming_Language-000000?logo=csharp&logoColor=white&style=for-the-badge"></img>
+<img src ="https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=white&style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=grey"></img>
 
 <br>
-<img src ="https://img.shields.io/badge/C%2B%2B-Programming_Language-000000?logo=c%2B%2B&logoColor=white&style=for-the-badge"></img>
+<img src ="https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=white&style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=grey"></img>
 
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"></img>
