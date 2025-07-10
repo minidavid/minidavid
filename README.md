@@ -4,6 +4,9 @@
 | _      <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
 <br>
 | _      <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=black"></img>
+<br>
+| _      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white"></img>
+
 
 - 👋 Salutations my good neighbor, my name is @minidavid
 - 👀 Sincerely unto you, I say I am interested in many things.
