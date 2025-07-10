@@ -1,5 +1,3 @@
-
-
 <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000"></img>
 <br>
 <img src="https://img.shields.io/badge/TIC-80-000000?style=for-the-badge&logo=tic80&logoColor=blue"></img>
@@ -20,11 +18,12 @@
 <img src="https://img.shields.io/badge/SDL2-FFFFFF?style=for-the-badge&logo=sdl&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=blue"></img>
 
-
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"></img>
+<br>
+<img src="https://img.shields.io/badge/SDL2-FFFFFF?style=for-the-badge&logo=sdl&logoColor=blue"></img>
 
 <br><br>
 <img src="https://img.shields.io/badge/Mobile Dev-000000"></img>
-
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=grey"></img>
 <br>
