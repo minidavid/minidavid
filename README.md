@@ -1,5 +1,5 @@
 <div align="center">
------<img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-badge&logo=unity&logoColor=blue"></img>----
+<img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-badge&logo=unity&logoColor=blue"></img>
 
 <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000"></img>
 <br>
