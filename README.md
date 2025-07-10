@@ -14,7 +14,12 @@
 <br>
 <img src ="https://img.shields.io/badge/C%2B-Programming_Language-000000?logo=csharp&logoColor=white&style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=grey"></img>
-<img src="https://img.shields.io/badge/SDL2-FFFFFF?style=for-the-badge&logo=sdl2&logoColor=grey"></img>
+
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"></img>
+<br>
+<img src="https://img.shields.io/badge/SDL2-FFFFFF?style=for-the-badge&logo=sdl&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=blue"></img>
+
 
 
 <br><br>
