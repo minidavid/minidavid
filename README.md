@@ -26,16 +26,19 @@
 <img src="https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=gdevelop&logoColor=blue"></img>
 </div>
 
------<img src="https://img.shields.io/badge/Mobile Dev-000000?style=for-the-badge&logo=ios&logoColor=blue"></img>--------
+<div align="center">
+
+<img src="https://img.shields.io/badge/Mobile Dev-000000?style=for-the-badge&logo=ios&logoColor=blue"></img>
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=grey"></img>
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=grey"></img>
 
+</div>
+
 <div align="center">
 
------WEB--------
 <img src="https://img.shields.io/badge/Web Dev-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
@@ -43,15 +46,18 @@
 <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"></img>
 </div>
 
------<img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=grey"></img>--------
+<div align="center">
+<img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=blue"></img>
+</div>
 
------<img src="https://img.shields.io/badge/Slop Related Shinanigance-FFFFFF?style=for-the-badge&logo=python&logoColor=grey"></img>--------
+<div align="center">
+<img src="https://img.shields.io/badge/Slop Related Shinanigance-FFFFFF?style=for-the-badge&logo=python&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"></img>
-
+</div>
 
 
 - 👋 Salutations my good neighbor, my name is @minidavid
