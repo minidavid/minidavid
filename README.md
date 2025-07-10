@@ -1,9 +1,9 @@
 
 <img src="https://img.shields.io/badge/Folder Of Some Skills I Have-000000?style-for-the-badge"></img>
 <br>
-|_<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
 <br>
- |__<img src="https://img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=tic80&logoColor=white"></img>
+<img src="https://img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=tic80&logoColor=blue"></img>
 
 <br><br>
 |_      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=black"></img>
