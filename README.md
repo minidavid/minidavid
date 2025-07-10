@@ -38,6 +38,10 @@
 <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=blue"></img>
 
+<img src="https://img.shields.io/badge/AI Related Shinanigance-FFFFFF?style=for-the-badge&logo=python&logoColor=grey"></img>
+<br>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"></img>
+
 
 
 - 👋 Salutations my good neighbor, my name is @minidavid
