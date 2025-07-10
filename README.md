@@ -1,4 +1,4 @@
-<div style="display: flex; gap: 20px;>
+<div style="display: flex; gap: 30px;>
 <div align="center" border="border: 2px solid red; padding: 10px; width: fit-content;">
 <img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-badge&logo=unity&logoColor=blue"></img>
 
