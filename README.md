@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/Folder Of Some Skills I Have-333333?style-for-the-badge"></img>
+<img src="https://img.shields.io/badge/Folder Of Some Skills I Have-000000?style-for-the-badge"></img>
 <br>
 | _      <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
 <br>
