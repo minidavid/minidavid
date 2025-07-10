@@ -27,9 +27,10 @@
 2. <img src="https://img.shields.io/badge/Mobile Dev-000000"></img>
 
 
-<img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=grey"></img>
 <br>
-<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=black"></img>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=grey"></img>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=grey"></img>
 
 <br><br>
 |_      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
