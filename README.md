@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
 <br>
 <img src="https://img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=tic80&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/Love2D-FFFFFF?style=for-the-badge&logo=love2d&logoColor=blue"></img>
+
 
 <br><br>
 |_      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=black"></img>
