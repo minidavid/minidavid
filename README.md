@@ -5,6 +5,8 @@
 <br>
 <img src="https://img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=tic80&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Love2D-FFFFFF?style=for-the-badge&logo=love2d&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/PICO-8-FFFFFF?style=for-the-badge&logo=pico8&logoColor=red"></img>
+<img src="https://img.shields.io/badge/Defold-FFFFFF?style=for-the-badge&logo=defold&logoColor=white"></img>
 
 
 <br><br>
