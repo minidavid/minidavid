@@ -1,6 +1,6 @@
 Hi!
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Flutter-2C2D72?style=for-the-badge&logo=flutter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Flutter-2C2D72?style=for-the-badge&logo=flutter&logoColor=black"></img>
 
 - 👋 Salutations my good neighbor, my name is @minidavid
 - 👀 Sincerely unto you, I say I am interested in many things.
