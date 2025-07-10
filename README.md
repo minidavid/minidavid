@@ -13,10 +13,10 @@
 <br>
 <img src="https://img.shields.io/badge/Unreal Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=white"></img>
 <br>
-<img src="https://img.shields.io/badge/SDL2-FFFFFF?style=for-the-badge&logo=sdl&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=sdl&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=blue"></img>
 
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"></img>
 <br>
