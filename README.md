@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Defold-FFFFFF?style=for-the-badge&logo=defold&logoColor=white"></img>
 
 <br>
-![C#](https://img.shields.io/badge/C%23-Programming_Language-239120?logo=csharp&logoColor=white&style=for-the-badge)
+<img src ="https://img.shields.io/badge/C%23-Programming_Language-239120?logo=csharp&logoColor=white&style=for-the-badge"></img>
 
 
 
