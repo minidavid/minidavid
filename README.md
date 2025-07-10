@@ -1,4 +1,4 @@
------GAMEDEV--------
+-----<img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-badge&logo=unity&logoColor=blue"></img>--------
 <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000"></img>
 <br>
 <img src="https://img.shields.io/badge/TIC-80-000000?style=for-the-badge&logo=tic80&logoColor=blue"></img>
@@ -19,8 +19,12 @@
 <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=sdl&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=blue"></img>
 
------MOBILE--------
-<img src="https://img.shields.io/badge/Mobile Dev-000000"></img>
+<img src="https://img.shields.io/badge/Without Code-FFFFFF?style=for-the-badge"></img>
+<br>
+<img src="https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=gdevelop&logoColor=blue"></img>
+
+
+-----<img src="https://img.shields.io/badge/Mobile Dev-000000"></img>--------
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=grey"></img>
 <br>
