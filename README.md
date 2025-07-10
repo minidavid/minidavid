@@ -3,7 +3,7 @@
 <br>
 |_      <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
 <br>
-|___     <img src="https:img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=lua&logoColor=white"></img>
+|___     <img src="https:img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=tic80&logoColor=white"></img>
 
 <br><br>
 |_      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=black"></img>
