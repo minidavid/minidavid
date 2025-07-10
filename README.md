@@ -6,15 +6,15 @@
 <img src="https://img.shields.io/badge/Love2D-FFFFFF?style=for-the-badge&logo=love2d&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/PICO-8-FFFFFF?style=for-the-badge&logo=pico8&logoColor=red"></img>
 <img src="https://img.shields.io/badge/Defold-FFFFFF?style=for-the-badge&logo=defold&logoColor=white"></img>
-<br>
+
 <img src ="https://img.shields.io/badge/C%23-000000?logo=c%23&logoColor=white&style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=grey"></img>
-<br>
+
 <img src ="https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=white&style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=grey"></img>
-<br>
+
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"></img>
-<br>
+
 <img src="https://img.shields.io/badge/SDL2-FFFFFF?style=for-the-badge&logo=sdl&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=blue"></img>
 
