@@ -39,9 +39,11 @@
 <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JS&logoColor=Yellow"></img>
 
+3. <img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=grey"></img>
+<br>
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=blue"></img>
 
-<br><br>
-|_      <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=HTML5&logoColor=black"></img>
 
 
 - 👋 Salutations my good neighbor, my name is @minidavid
