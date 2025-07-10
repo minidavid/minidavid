@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=sdl&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=blue"></img>
 
-<br><br>
 <img src="https://img.shields.io/badge/Mobile Dev-000000"></img>
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=grey"></img>
@@ -26,7 +25,6 @@
 <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=grey"></img>
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=grey"></img>
 
-<br><br>
 <img src="https://img.shields.io/badge/Web Dev-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
