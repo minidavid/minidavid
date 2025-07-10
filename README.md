@@ -13,7 +13,7 @@
 
 <br>
 <img src ="https://img.shields.io/badge/C%2B-Programming_Language-000000?logo=csharp&logoColor=white&style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=for-the-badge&logo=unreal&logoColor=grey"></img>
+<img src="https://img.shields.io/badge/Unreal Engine-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=grey"></img>
 
 
 <br><br>
