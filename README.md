@@ -1,6 +1,8 @@
 
 <img src="https://img.shields.io/badge/Folder Of Some Skills I Have-000000?style-for-the-badge"></img>
 <br>
+<img src="https://img.shields.io/badge/Gamedev-000000"></img>
+<br>
 <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
 <br>
 <img src="https://img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=tic80&logoColor=blue"></img>
