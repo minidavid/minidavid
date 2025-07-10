@@ -1,12 +1,12 @@
 1. <img src="https://img.shields.io/badge/Gamedev-000000"></img>
 
 
-<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000"></img>
 <br>
-<img src="https://img.shields.io/badge/TIC-80-FFFFFF?style=for-the-badge&logo=tic80&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/Love2D-FFFFFF?style=for-the-badge&logo=love2d&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/PICO-8-FFFFFF?style=for-the-badge&logo=pico8&logoColor=red"></img>
-<img src="https://img.shields.io/badge/Defold-FFFFFF?style=for-the-badge&logo=defold&logoColor=white"></img>
+<img src="https://img.shields.io/badge/TIC-80-000000?style=for-the-badge&logo=tic80&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/Love2D-000000?style=for-the-badge&logo=love2d&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/PICO-8-000000?style=for-the-badge&logo=pico8&logoColor=red"></img>
+<img src="https://img.shields.io/badge/Defold-000000?style=for-the-badge&logo=defold&logoColor=white"></img>
 
 <img src ="https://img.shields.io/badge/C%23-000000?logo=c%23&logoColor=white&style=for-the-badge"></img>
 <br>
