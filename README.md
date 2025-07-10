@@ -31,7 +31,7 @@
 <br>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JS&logoColor=Yellow"></img>
+<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"></img>
 
 <img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=grey"></img>
 <br>
