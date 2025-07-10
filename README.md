@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Defold-FFFFFF?style=for-the-badge&logo=defold&logoColor=white"></img>
 
 <br>
-<img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=c#&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=csharp&logoColor=white"></img>
 
 
 <br><br>
