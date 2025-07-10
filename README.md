@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/PICO-8-FFFFFF?style=for-the-badge&logo=pico8&logoColor=red"></img>
 <img src="https://img.shields.io/badge/Defold-FFFFFF?style=for-the-badge&logo=defold&logoColor=white"></img>
 
+<br>
+<img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=c#&logoColor=white"></img>
+
 
 <br><br>
 |_      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=black"></img>
