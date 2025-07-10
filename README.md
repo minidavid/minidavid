@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=gdevelop&logoColor=blue"></img>
 
 
------<img src="https://img.shields.io/badge/Mobile Dev-000000"></img>--------
+-----<img src="https://img.shields.io/badge/Mobile Dev-000000?style=for-the-badge&logo=ios&logoColor=blue"></img>--------
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=grey"></img>
 <br>
