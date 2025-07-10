@@ -1,3 +1,4 @@
+<div align="center">
 -----<img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-badge&logo=unity&logoColor=blue"></img>--------
 
 <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000"></img>
@@ -23,7 +24,7 @@
 <img src="https://img.shields.io/badge/Without Code-FFFFFF?style=for-the-badge"></img>
 <br>
 <img src="https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=gdevelop&logoColor=blue"></img>
-
+</div>
 
 -----<img src="https://img.shields.io/badge/Mobile Dev-000000?style=for-the-badge&logo=ios&logoColor=blue"></img>--------
 
