@@ -1,4 +1,4 @@
-<div style="display: flex; gap: -400px;>
+--------------------------------------------------------------------------------------------------------------------
 <div align="center" border="border: 2px solid red; padding: 10px; width: fit-content;">
 <img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-badge&logo=unity&logoColor=blue"></img>
 
@@ -38,6 +38,7 @@
 
 </div>
 
+--------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
 <img src="https://img.shields.io/badge/Web Dev-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=grey"></img>
@@ -47,6 +48,7 @@
 <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"></img>
 </div>
 
+--------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=grey"></img>
 <br>
@@ -54,13 +56,13 @@
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=blue"></img>
 </div>
 
+--------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <img src="https://img.shields.io/badge/Slop Related Shinanigance-FFFFFF?style=for-the-badge&logo=python&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"></img>
 </div>
-</div>
-
+--------------------------------------------------------------------------------------------------------------------
 - 👋 Salutations my good neighbor, my name is @minidavid
 - 👀 Sincerely unto you, I say I am interested in many things.
 - 🌱 I’m currently learning the craft of many things.
