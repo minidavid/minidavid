@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Gamedev-000000"></img>
+1. <img src="https://img.shields.io/badge/Gamedev-000000"></img>
 
 
 <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
@@ -24,8 +24,12 @@
 
 
 <br><br>
-|_      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=black"></img>
+2. <img src="https://img.shields.io/badge/Mobile Dev-000000"></img>
 
+
+<img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=white"></img>
+<br>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=black"></img>
 
 <br><br>
 |_      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
