@@ -1,4 +1,4 @@
-1. <img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-bade&logo=itchio&logoColor=grey"></img>
+1. <img src="https://img.shields.io/badge/Gamedev-000000"></img>
 
 
 <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
@@ -33,7 +33,11 @@
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=grey"></img>
 
 <br><br>
-|_      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
+3. <img src="https://img.shields.io/badge/Web Dev-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=grey"></img>
+<br>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JS&logoColor=Yellow"></img>
 
 
 <br><br>
