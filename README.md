@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/Folder-333333?style-for-the-badge&logo=folder&logoColor=yellow"></img>
+<img src="https://img.shields.io/badge/Folder-333333?style-for-the-badge"></img>
 <br>
 | _      <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
 <br>
