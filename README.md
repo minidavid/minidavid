@@ -1,4 +1,4 @@
-1. <img src="https://img.shields.io/badge/Gamedev-000000"></img>
+1. <img src="https://img.shields.io/badge/Gamedev-000000?style=for-the-bade&logo=itchio&logoColor=grey"></img>
 
 
 <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"></img>
