@@ -1,4 +1,3 @@
-1. <img src="https://img.shields.io/badge/Gamedev-000000"></img>
 
 
 <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000"></img>
@@ -24,7 +23,7 @@
 
 
 <br><br>
-2. <img src="https://img.shields.io/badge/Mobile Dev-000000"></img>
+<img src="https://img.shields.io/badge/Mobile Dev-000000"></img>
 
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=grey"></img>
@@ -33,13 +32,13 @@
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=grey"></img>
 
 <br><br>
-3. <img src="https://img.shields.io/badge/Web Dev-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=grey"></img>
+<img src="https://img.shields.io/badge/Web Dev-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JS&logoColor=Yellow"></img>
 
-3. <img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=grey"></img>
+<img src="https://img.shields.io/badge/Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=grey"></img>
 <br>
 <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=blue"></img>
